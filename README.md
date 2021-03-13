@@ -1,4 +1,4 @@
-# Eternal Loop Challenge HackTheBox
+# Eternal Loop Challenge Hack The Box
 
 Walkthough about "Eternal Loop" Misc Challenge from Hack The Box
 
@@ -42,7 +42,7 @@ john htb.hash --wordlist=/usr/share/wordlists/rockyou.txt
 
 ![](https://i.ibb.co/qRTMDHZ/descarga-4.png)
 
-Just left unzip the file.
+It only remains to unzip the file.
 
 The file will be "DoNotTouch", if we check what type of file it is..
 
